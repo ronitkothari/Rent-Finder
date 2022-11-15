@@ -2,7 +2,7 @@
 
 
 Tech Stack: React, NodeJS, ExpressJS, MongoDB   
-Demo: https://youtu.be/mSQwBNV6N94  
+Demo: https://youtu.be/SHJuE3y8uS0 
 
 
 Students are always stressing about finding housing. Rent Finder is a platform that can make selling and getting sublets/rooms for rent much easier.
